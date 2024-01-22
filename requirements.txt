@@ -1,4 +1,4 @@
 pythainlp==2.1.4
-sklearn==0.24.1
+scikit-learn==0.24.1
 pickle==4.0
 scipy==1.4.1
